@@ -1,1 +1,3 @@
 # git_test
+Just another repo for The Odin Project...
+Hello Odin!
